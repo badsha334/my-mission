@@ -22,7 +22,7 @@ h1{
 #border-img{
     border-left: 10px solid;
     border-image-slice: 1;
-    border-image: linear-gradient(cyan);
+    
 }
 
 .orange{
@@ -30,4 +30,18 @@ h1{
 }
 h2{
     margin-left: 40%;
+}
+.ankor{
+     text-decoration: none;
+     background-color: rgb(9, 228, 191);
+     padding: 10px 40px;
+     color: white;
+     border-radius: 5px;
+     
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: orange;
+    padding: 40px;
 }
